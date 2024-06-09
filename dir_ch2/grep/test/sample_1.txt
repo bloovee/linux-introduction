@@ -1,0 +1,12 @@
+I like apples and he likes oranges
+I like oranges and he likes grapes
+I like grapes and he likes bananas
+I like bananas and she likes apples
+He likes apples and she likes oranges
+He likes oranges and she likes grapes
+He likes grapes and she likes bananas
+He likes bananas and I like apples
+She likes apples and I like oranges
+She likes oranges and I like grapes
+She likes grapes and I like bananas
+She likes bananas and he likes apples

@@ -1,0 +1,1 @@
+ls: cannot open directory '/lost+found': Permission denied

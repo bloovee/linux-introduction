@@ -1,0 +1,12 @@
+src
+share
+sbin
+local
+libx32
+libexec
+lib64
+lib32
+lib
+include
+games
+bin

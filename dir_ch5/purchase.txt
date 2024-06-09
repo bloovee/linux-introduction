@@ -1,0 +1,15 @@
+274,Theresa,Webb,Apple,6,$19.2
+357,Guy,Hawkins,Orange,3,$6.6
+703,Devon,Lane,Apple,4,$12.8
+994,Arlene,McCoy,Apple,4,$12.8
+922,Ralph,Edwards,Bananas,3,$12.6
+177,Savannah,Nguyen,Apple,6,$19.2
+798,Marvin,McKinney,Grapes,7,$53.2
+429,Courtney,Henry,Orange,3,$6.6
+492,Floyd,Miles,Bananas,2,$8.4
+738,Wade,Warren,Grapes,5,$38
+130,Jerome,Bell,Grapes,6,$45.6
+185,Esther,Howard,Bananas,4,$16.8
+426,Robert,Fox,Bananas,6,$25.2
+877,Cameron,Williamson,Apple,7,$22.4
+556,Annette,Black,Grapes,4,$30.4
